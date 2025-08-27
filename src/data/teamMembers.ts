@@ -55,9 +55,8 @@ export const teamMembers: TeamMember[] = [
     email: "wepjaictin@pcu.edu.ph",
     bio: "Full stack developer who is proficient in front-end development but has experience in back-end developing as well. A person who is very passionate when it comes to technology.",
     socialLinks: {
-      linkedin: "https://linkedin.com/in/marcusjohnson",
-      twitter: "https://twitter.com/marcusj",
-      instagram: "https://instagram.com/marcusj",
+      facebook: "https://www.facebook.com/will.eleazar.jaictin.2025",
+      instagram: "https://www.instagram.com/will_azar/",
     },
     available: true,
     favorite: false,
@@ -72,7 +71,7 @@ export const teamMembers: TeamMember[] = [
     experience: 4,
     skills: ["Layout", "Organize", "Production System"],
     photo:
-      "https://scontent.fmnl36-1.fna.fbcdn.net/v/t39.30808-6/523662928_1449656172854989_1042573254877859322_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGcqVFw2bA_uVT6hTeB7wGym42xQBiz0LibjbFAGLPQuCT_DMEZAzYKnGpxnYxs_9VgYZxP4JUXXFyi5-CKYoeR&_nc_ohc=VA3nLegjF8sQ7kNvwGU1yIp&_nc_oc=AdnFMRoraqU1RYqCmwyIDipFXvq5lYtQGAQcUtiSYje3dh1lKzsFGo6lYiqyEpU2ZA4&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&_nc_gid=AYF1NIOWXL5716qTVExplg&oh=00_AfXQIQsVvfyw6mA9uZiHUNSJyxXNLzK7jN0qPPkIIyBtgQ&oe=68AE6D5A",
+      "https://scontent.fmnl36-1.fna.fbcdn.net/v/t39.30808-6/523662928_1449656172854989_1042573254877859322_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGcqVFw2bA_uVT6hTeB7wGym42xQBiz0LibjbFAGLPQuCT_DMEZAzYKnGpxnYxs_9VgYZxP4JUXXFyi5-CKYoeR&_nc_ohc=o2Sci4NY9PMQ7kNvwHy122P&_nc_oc=AdlpAN5hMR6VxZy7T-uQoKfhI-W5prDZq96SGgYvH32c7HFojLhkCiu8ZdoLFyQNq4w&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&_nc_gid=lSck0fiOPUxUDU70erPMTQ&oh=00_AfXDkChmSw9d8ieIm8kSa5ACSkddDrDDz7osQMCmcDrJHA&oe=68B4CC9A",
     email: "afpelomina@pcu.edu.ph",
     bio: "Data manager with a knack for turning raw data into meaningful insights. Skilled in data visualization and statistical analysis.",
     socialLinks: {
@@ -93,16 +92,16 @@ export const teamMembers: TeamMember[] = [
     experience: 6,
    skills: [
       "Blogging",
-      " Writing",
+      "Writing",
     ],
     photo:
       "https://scontent.fmnl36-1.fna.fbcdn.net/v/t1.15752-9/536894252_2145538139273810_73969625715109099_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeG6z5u8aKq1h-QYK9AXFYikrDrd-GaeCJasOt34Zp4IljUtF9Pu0cq4gZxrZFYhC2YEXBo8T8bnFwAn2oZwZfgT&_nc_ohc=FZW55iTxjZkQ7kNvwGFmmbb&_nc_oc=AdlytGOM7s4roDgIYoyqiK2PZdHS-kbjUcb6_5Oa_l4JNR6eXI9UWuLVtGWGpMsXXK0&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&oh=03_Q7cD3AFkFh4BzgnKmNbtwEzsnmOPRgs1Z8xS1KbOrqyUzTO33w&oe=68D5119B",
     email: "amfcanete@pcu.edu.ph",
     bio: " A blogger who is passionate about sharing stories and experiences. Skilled in creating engaging content and building connections with readers through honest and authentic writing.",
     socialLinks: {
-      instagram: "https://www.instagram.com/jelaysandwich_?igsh=cWQ2dnhtYng3M3Zh",
-      linkedin: "https://linkedin.com/in/davidkim",
-      github: "https://github.com/davidkim",
+      facebook:
+        "https://www.facebook.com/angelamae.canet",
+      instagram: "https://www.instagram.com/jelaysandwich_/",
     },
     available: true,
     favorite: false,
@@ -117,16 +116,16 @@ export const teamMembers: TeamMember[] = [
     experience: 3,
    skills: [
       "Blogging",
-      " Writing",
+      "Writing",
     ],
     photo:
       "https://scontent.fmnl36-1.fna.fbcdn.net/v/t1.15752-9/533548254_781382164260318_1919717777686450307_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeEB3b6baQLl4W73RjON2_6T1r8Olg33qFjWvw6WDfeoWL4jt4AUZLuDgBhvXJRhlvP7nmqTudDxafJH94-VP661&_nc_ohc=N__NWvRVAXkQ7kNvwGZWQOJ&_nc_oc=AdkD9xhAUhvs2gTGPFiVXG04NqWyuqq-jVvWs3Hc0n2wim7KHMrNgiTN2Zl1E7quZSM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&oh=03_Q7cD3AEpFjFmKZzZNNg_p4pvdJObE7ZoYyp4VWs4VblsBJ6mTw&oe=68D531B7",
     email: "eadcanete@pcu.edu.ph",
     bio: "A blogger who is passionate about sharing stories and experiences. Skilled in creating engaging content and building connections with readers through honest and authentic writing.",
     socialLinks: {
-      instagram: "https://www.instagram.com/elis.quish?igsh=MTUxOTRtNzR2dHRtcg==",
-      linkedin: "https://linkedin.com/in/priyasharma",
-      github: "https://github.com/priyasharma",
+      facebook:
+        "https://www.facebook.com/emely.annnnnn",
+      instagram: "https://www.instagram.com/emely.canete/",
     },
     available: true,
     favorite: false,
@@ -141,16 +140,16 @@ export const teamMembers: TeamMember[] = [
     experience: 5,
    skills: [
       "Blogging",
-      " Writing",
+      "Writing",
     ],
     photo:
       "https://scontent.fmnl36-1.fna.fbcdn.net/v/t1.15752-9/532925002_1170345888255845_8518997768753391855_n.jpg?stp=dst-jpg_s640x640_tt6&_nc_cat=104&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeF2mlhqdE9HESv9ZZO_-c5Kf4B00tWFAkZ_gHTS1YUCRqwBes_Cmk9oYCrGRswbQuL2dHpkg60vMGOc0f-ENdbc&_nc_ohc=Z_0-xYwdEmIQ7kNvwENVMsC&_nc_oc=AdkSNTwVOxAQOCKz0KDlaS5TqCPJ0HWSLgZgLOoTsNT91FHKJBK5iKeVjjoIkGo_YWM&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&oh=03_Q7cD3AGSDB4l4xhmWdNzX6scGeGiKc5juBiOlYEWQVsMWXENdw&oe=68D513EF",
     email: "adtoonjohnray@gmail.com",
     bio: "Hey there! I’m John-Ray, the voice behind this little corner of the internet. I started blogging as a way to share my thoughts, stories, and experiences—and it’s grown into something much more meaningful.",
     socialLinks: {
+      facebook:
+        "https://www.facebook.com/johnray.p.adto.on",
       instagram: "https://www.instagram.com/johnrayadtoon/",
-      linkedin: "https://linkedin.com/in/alexthompson",
-      twitter: "https://twitter.com/alexmarketing",
     },
     available: true,
     favorite: false,
@@ -165,7 +164,7 @@ export const teamMembers: TeamMember[] = [
     experience: 4,
     skills: [
       "Blogging",
-      " Writing",
+      "Writing",
     ],
     photo:
       "https://scontent.fmnl36-1.fna.fbcdn.net/v/t1.15752-9/526720984_1642884173047417_2247854457065878985_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeE81umIwszmZrPyqnKYHfRJWgtiC3dexohaC2ILd17GiElp57oFUdj6k6ZS7YfB5fYFUwfroD3yWi2E6nw6TzGS&_nc_ohc=vLFQ-5lHz1wQ7kNvwH8V2yp&_nc_oc=Adn3-nv837wdQJjCcEMgexXjnS_wnHLd2uSEQ-Y1rNzZZn47Wc91fiCPV_-tBSY4KlI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&oh=03_Q7cD3AELf0Z52lRC_nWSisRVdt9rJ7g59gtDGuq0TwAKulngvQ&oe=68D50B2E",
@@ -173,8 +172,7 @@ export const teamMembers: TeamMember[] = [
     bio: " A creative and passionate blogger who believes writing goes beyond words on a page—it is a meaningful craft that holds experiences, lessons, and reflects the victories born from perseverance through failure.",
     socialLinks: {
       instagram: "https://www.instagram.com/marianemayescasinas/",
-      linkedin: "https://linkedin.com/in/jenniferliu",
-      github: "https://github.com/jenniferliu",
+      facebook: "https://www.facebook.com/escatot"
     },
     available: true,
     favorite: false,
@@ -189,14 +187,14 @@ export const teamMembers: TeamMember[] = [
     experience: 8,
     skills: [
       "Blogging",
-      " Writing",
+      "Writing",
     ],
     photo:
       "https://scontent.fmnl36-1.fna.fbcdn.net/v/t39.30808-6/534637386_1448640679508571_3771887921517743322_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHU-l3rD-0Y9M6_r4PQu09xgezZyjVXO8yB7NnKNVc7zBsQZ7zAfZsAmvNZIaZDb8Wn6dM0iRE1NMGVXJTV7oWx&_nc_ohc=GQ4zQbbXZ0kQ7kNvwEXK1DD&_nc_oc=AdlLlIW17sdwzquJILHMEpYSJUV0yQ2TAdMaqnkm3hyxLBdcsEGBWqzG4GifWjy58Mg&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&_nc_gid=HhuN7FQQCHQHU97XiZAbcQ&oh=00_AfWFQe6KdpKIkacmMGEnXY5uVQGmeui6BqGziWjDD8T87w&oe=68B37476",
     email: "ldmendez@pcu.edu.ph",
     bio: "I am a blogger who is very honest",
     socialLinks: {
-      linkedin: "https://linkedin.com/in/robertbrown",
+      facebook: "https://www.facebook.com/Horsdoeuvresgaming",
     },
     available: true,
     favorite: false,
