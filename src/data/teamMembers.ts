@@ -29,8 +29,7 @@ export const teamMembers: TeamMember[] = [
     department: "Engineering",
     experience: 2,
     skills: ["Coding", "Production", "CSS", "JavaScript"],
-    photo:
-"https://scontent.fmnl36-1.fna.fbcdn.net/v/t39.30808-6/494284355_1303653580699804_1925043377826567478_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEvUWWbi1K3WByQuCPoNKLvM7mmDLIiV1YzuaYMsiJXViejoycSG90YT_HGuYioKkdIi5Lt_9rMd_WdOUxLmXS8&_nc_ohc=bBzJGgoFZHQQ7kNvwF2xHmf&_nc_oc=Adm5W8KRcVr4svinT_yjPdA4uMzK9cgVTCBOOxOfZ3USPRaZhOA28_Ycrmdwl7KVC-o&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&_nc_gid=KInOTQ3mYgDy7XbBTTyxxw&oh=00_AfcmeCV4ZZ7CQtGsarvC6WhfQMHDo8Ky3mdnGz0QA80b9w&oe=68E6A125",
+    photo: "https://scontent.fmnl36-1.fna.fbcdn.net/v/t39.30808-6/494284355_1303653580699804_1925043377826567478_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEvUWWbi1K3WByQuCPoNKLvM7mmDLIiV1YzuaYMsiJXViejoycSG90YT_HGuYioKkdIi5Lt_9rMd_WdOUxLmXS8&_nc_ohc=bBzJGgoFZHQQ7kNvwF2xHmf&_nc_oc=Adm5W8KRcVr4svinT_yjPdA4uMzK9cgVTCBOOxOfZ3USPRaZhOA28_Ycrmdwl7KVC-o&_nc_zt=23&_nc_ht=scontent.fmnl36-1.fna&_nc_gid=30OGMHCV2dSTc5VfSXv2IA&oh=00_Afe-OeBcJM-PsJaH7pjY_QmqogvV_FwAW3Rh7heSXAANbw&oe=68E6A125",
     email: "dcbfajardo@pcu.edu.ph",
     bio: "Full stack developer with a passion for creating efficient and scalable web applications. Experienced in both frontend and backend technologies.",
     socialLinks: {
