@@ -7,7 +7,6 @@ import { Cloud } from 'lucide-react';
 import { TeamMemberCard } from './TeamMemberCard';
 import { TeamMemberModal } from './TeamMemberModal';
 import { SearchAndFilters, SortOption, ViewMode } from './SearchAndFilters';
-import { EnhancedSpotlightSection } from './EnhancedSpotlightSection';
 import { ThemeToggle } from './ThemeToggle';
 import { TeamMember } from '../data/teamMembers';
 import { cn } from './ui/utils';
@@ -263,10 +262,6 @@ export function TeamDirectory({ members: initialMembers }: TeamDirectoryProps) {
             <ThemeToggle />
           </div>
 
-          <EnhancedSpotlightSection 
-            members={members}
-            onMemberClick={setSelectedMember}
-          />
 
           <SearchAndFilters
             searchTerm={searchTerm}
